@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-	title: 'ruka.top',
-	description: '16y/o developer.',
+	title: 'るか㌨',
+	description: "I'm a 16y/o fullstack developer.",
 };
 
 export default function RootLayout({
