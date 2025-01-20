@@ -1,3 +1,4 @@
+import dynamic from 'next/dynamic';
 import Hero from './components/hero';
 import Links from './components/links';
 
